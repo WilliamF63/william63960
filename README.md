@@ -35,7 +35,9 @@ WordPress
 
 ## Developpement Mobile: 📲
 
-React Native, Swift, SwiftUI
+React Native, développement sur Android et Ios
+
+Swift, SwiftUI, développement sur Ios Seulement.
 
 
 ## Gestion de projet : ⚙️
