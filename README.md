@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Voici quelques informations supplémentaires me concernant:
+
 ## Développement Web:
 
 ### Côté Technique : 👨🏻‍💻
