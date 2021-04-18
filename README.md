@@ -20,36 +20,37 @@ Here are some ideas to get you started:
 > Steve Jobs
 
 
-Voici quelques informations supplémentaires me concernant:
 
-## Développement Web:
+## Voici quelques informations supplémentaires me concernant:
 
-### Côté Technique : 👨🏻‍💻
+### Développement Web:
 
-#### "Front" : (Partie Visible)
+#### Côté Technique : 👨🏻‍💻
+
+##### "Front" : (Partie Visible)
  
 HTML, CSS, BootStrap, JavaScript, Sass , PHP,  React, Semantic UI, Redux, Axios
 
-#### "Back" : (Partie Serveur) 
+##### "Back" : (Partie Serveur) 
 
 PHP, MySQL (Création et gestion de base de données), NoSql, Javascript, NodeJs, Express, Sequelize, PostGreSQL
 
-#### CMS: 
+##### CMS: 
 
 WordPress
 
-## Developpement Mobile: 📲
+### Developpement Mobile: 📲
 
 React Native, développement sur Android et Ios
 
 Swift, SwiftUI, développement sur Ios Seulement.
 
 
-## Gestion de projet : ⚙️
+### Gestion de projet : ⚙️
 
 Git/Github pour le versionning
 
-## Méthode de travail: 📎
+### Méthode de travail: 📎
 
 - Méthode Agile
 - Scrum
@@ -57,7 +58,7 @@ Git/Github pour le versionning
 Création du cahier des charges, wireframe (representation graphique de l'application Web)
 
 
-## Diplome et certification: 🔖
+### Diplome et certification: 🔖
 - Certification Opquast, la référence française pour les bonnes pratiques du web
 
 - Titre professionnel Développeur web et web mobile en Janvier 2021
