@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Ma philosophie: 
+
+> La seule manière de faire du bon travail, c'est d'aimer ce que vous faites.
+> Steve Jobs
+
 
 Voici quelques informations supplémentaires me concernant:
 
@@ -57,7 +62,4 @@ Création du cahier des charges, wireframe (representation graphique de l'applic
 
 - Titre professionnel Développeur web et web mobile en Janvier 2021
 
-Ma philosophie: 
 
-> La seule manière de faire du bon travail, c'est d'aimer ce que vous faites.
-> Steve Jobs
