@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Développement Web:
 
-###Côté Technique :
+### Côté Technique : 👨🏻‍💻
 
 #### "Front" : (Partie Visible)
  
@@ -31,16 +31,16 @@ PHP, MySQL (Création et gestion de base de données), NoSql, Javascript, NodeJs
 
 WordPress
 
-## Developpement Mobile:
+## Developpement Mobile: 📲
 
 React Native, Swift, SwiftUI
 
 
-## Gestion de projet :
+## Gestion de projet : ⚙️
 
 Git/Github pour le versionning
 
-## Méthode de travail:
+## Méthode de travail: 📎
 
 - Méthode Agile
 - Scrum
@@ -48,7 +48,7 @@ Git/Github pour le versionning
 Création du cahier des charges, wireframe (representation graphique de l'application Web)
 
 
-## Diplome et certification: 
+## Diplome et certification: 🔖
 - Certification Opquast, la référence française pour les bonnes pratiques du web
 
 - Titre professionnel Développeur web et web mobile en Janvier 2021
