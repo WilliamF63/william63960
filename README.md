@@ -57,4 +57,7 @@ Création du cahier des charges, wireframe (representation graphique de l'applic
 
 - Titre professionnel Développeur web et web mobile en Janvier 2021
 
+Ma philosophie: 
 
+> La seule manière de faire du bon travail, c'est d'aimer ce que vous faites.
+> Steve Jobs
