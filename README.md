@@ -1,4 +1,4 @@
-# Hi World 👋
+# Hello World 👋
 
 <!--
 **william63960/william63960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 > La seule manière de faire du bon travail, c'est d'aimer ce que vous faites.
 > Steve Jobs
 
-
+<!--
 
 ## Voici quelques informations supplémentaires me concernant:
 
@@ -65,4 +65,4 @@ Création du cahier des charges, wireframe (representation graphique de l'applic
 
 ## Me contactez: 
 william.fernandes63@gmail.com
-
+-->
